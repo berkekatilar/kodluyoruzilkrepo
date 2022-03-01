@@ -12,3 +12,5 @@
 
 ## License
 [MIT](URL)
+
+![Proje](proje.png)
